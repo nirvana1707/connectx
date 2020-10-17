@@ -1,1 +1,1 @@
-# connectx
+# ConnectX
