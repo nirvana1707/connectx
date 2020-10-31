@@ -11,7 +11,7 @@ ConnectX is a game, where the main objective is to get a certain number of your 
 ## Methodology
 
 Here, I use minimax algorithm with alpha-beta pruning to look N-steps ahead of the opponent.
-Pseudo-code:
+Below is the pseudo-code:
 ![alt text](https://github.com/nirvana1707/connectx/blob/main/images/pseudo_code.PNG)
 Source:https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning#Pseudocode
 
